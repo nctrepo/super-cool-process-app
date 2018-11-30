@@ -53,12 +53,12 @@
     <repository>
         <id>central</id>
         <name>ubuntu-releases</name>
-        <url>http://192.168.2.39:8081/artifactory/Jenkins-integration</url>
+        <url>http://192.168.2.39:8081/artifactory/release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ubuntu-snapshots</name>
-        <url>http://192.168.2.39:8081/artifactory/Jenkins-snapshot</url>
+        <url>http://192.168.2.39:8081/artifactory/snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
 	
